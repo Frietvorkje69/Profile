@@ -5,4 +5,4 @@ Currently I'm studying at the big boy school of Rotterdam following the Creative
 
 1. <a href="https://github.com/Frietvorkje69/CLE02.Databases">Reservation system built on a PHP backend 🧠</a>
 2. <a href="https://github.com/Frietvorkje69/CLE01">Onepager about Google written in Dutch 🇳🇱</a>
-3. <a href="https://github.com/Frietvorkje69/AmongUsSimulator">Among Us Simulator: an JavaScript experiment 📮ඞ</a>
+3. <a href="https://github.com/Frietvorkje69/AmongUsSimulator">Among Us Simulator: a JavaScript experiment 📮ඞ</a>
