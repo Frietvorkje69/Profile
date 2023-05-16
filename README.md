@@ -1,4 +1,4 @@
-Hello GAMERS! It's ya boi Frietvorkje69 aka Luke. I welcome you to my humble yet EPIC GitHub page.
+Hello I'm Luke. I welcome you to my humble yet very EPIC GitHub page.
 ***
 Currently I'm studying at the Rotterdam University of Applied Sciences following the Creative Media & Game Technologies course (CMGT) 👾🎮<br/>
  Here are some notable projects I've made so far:
