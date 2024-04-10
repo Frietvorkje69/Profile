@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🍟 Welcome!
 Hi I'm Luke. I sometimes make stuff.<br>Currently I'm studying at the Rotterdam University of Applied Sciences following the Creative Media & Game Technologies course 👾🎮
 
 
