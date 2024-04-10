@@ -1,8 +1,8 @@
 # 🍟 Welcome!
 Hi I'm Luke. I sometimes make stuff.<br>Currently I'm studying at the Rotterdam University of Applied Sciences following the Creative Media & Game Technologies course 👾🎮
 
-
 [![](https://visitcount.itsvg.in/api?id=Frietvorkje69&icon=0&color=6)](https://visitcount.itsvg.in)
+<p align="center"><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=7s" target="_blank"><img src="https://github.com/Frietvorkje69/PRG05-Framework/blob/main/resources/img/luke.png?raw=true" width="300" alt="drawing of my face"></a></p>
 
 
 # 💻 Tech Stack:
@@ -10,5 +10,4 @@ Hi I'm Luke. I sometimes make stuff.<br>Currently I'm studying at the Rotterdam 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Frietvorkje69&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Frietvorkje69&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-<p align="center"><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=7s" target="_blank"><img src="https://github.com/Frietvorkje69/PRG05-Framework/blob/main/resources/img/luke.png?raw=true" width="300" alt="drawing of my face"></a></p>
+<img src="https://raw.githubusercontent.com/Frietvorkje69/Frietvorkje69/output/snake.svg" alt="Snake animation" />
